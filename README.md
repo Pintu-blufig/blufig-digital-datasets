@@ -20,8 +20,3 @@ The purpose of this dataset is to provide a comprehensive, structured corpus of 
 -   **Question-Answering Systems**: Building tools that can answer questions based on our website's knowledge base.
 -   **Content Analysis**: Identifying trends, content gaps, or popular topics within our content.
 
-### Automation
-This dataset is automatically updated using Python scripts that:
-1.  Scrape the website's content.
-2.  Structure the data into the format above.
-3.  Upload the updated CSV to this GitHub repository and Kaggle.
